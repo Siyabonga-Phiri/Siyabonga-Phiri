@@ -1,7 +1,7 @@
- I’m Siyabonga-Phiri
+: I’m Siyabonga-Phiri
  
-Aspiring software Developer
+: Aspiring software Developer
 
-I’m currently a TUT Third Year Student
+: I’m currently a TUT Third Year Student
 
-📫 How to reach me siyabongaraynin@gmail.com
+: 📫 How to reach me siyabongaraynin@gmail.com
